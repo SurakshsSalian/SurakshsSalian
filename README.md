@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm suraksha R</h1>
 
 Hello
-I'm suraksha ,I am pursuing MCA in St.Aloysius college Manglore
+I'm Suraksha R, Iam pursuing my MCA at St Aloysius college manglore, I am currently a Intern at Indian Space Research Organization (ISRO).
+I like to code,read novels and I like to learn new programming language.
 - 🌱 I’m currently learning **Deep learning, cloud**
 
 <h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
