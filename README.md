@@ -10,9 +10,9 @@ I’m currently learning **Deep learning, cloud**
 
 **Projects**
 
-1) Had completed the project related to  ` Dental Clinic Management ` as website,using  PHP,CSS,JAVASCRIPT  as Frontend and  MySql as Backend
+1) Had completed the project related to  ` Dental Clinic Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
  
-2) Had completed the project related to  ` Grocery Store Management ` as website,using  PHP,CSS,JAVASCRIPT  as Frontend and  MySql as Backend
+2) Had completed the project related to  ` Grocery Store Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
 
 <h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
 <p align="left">
