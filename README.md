@@ -10,7 +10,7 @@ I’m currently learning **Deep learning, cloud**
 
 **Projects**
 
-- Had completed the project related to #Dental Clinic Management# 
+- Had completed the project related to ** Dental Clinic Management ** as website,using `** PHP,CSS,JAVASCRIPT **`
 
 <h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
 <p align="left">
