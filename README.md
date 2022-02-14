@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm suraksha R</h1>
 
-
+Hello
+I'm suraksha ,I am pursuing MCA in St.Aloysius college Manglore
 - 🌱 I’m currently learning **Deep learning, cloud**
 
 <h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
