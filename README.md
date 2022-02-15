@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm suraksha R</h1>
+<h1 align="center">Hi 👋</h1>
 
 Hello
 I'm Suraksha R, Iam pursuing my MCA at *St Aloysius college* manglore, I am currently a Intern at *Indian Space Research Organization (ISRO)*.
