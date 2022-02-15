@@ -16,9 +16,9 @@ I’m currently learning **Deep learning, cloud**
 
 <h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
 <p align="left">
-* [Linkedin](https://linkedin.com/in/suraksha-r) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraksha-r" height="30" width="40" />
+* ![Linkedin](https://linkedin.com/in/suraksha-r) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraksha-r" height="30" width="40" />
  
-* [Hackerrank](https://www.hackerrank.com/@suraksha20mca021) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraksha20mca021" height="30" width="40" />
+* ![Hackerrank](https://www.hackerrank.com/@suraksha20mca021) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraksha20mca021" height="30" width="40" />
 </p>
 
 
