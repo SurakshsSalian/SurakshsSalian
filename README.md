@@ -6,15 +6,13 @@ I like to code,read novels and I like to learn new programming languages.
  
 I am looking forward to an opportunity where I can utilize my skills in constituting effectively to the sucess of the organization and further improvement to my skills. 
 
-I’m currently learning **Deep learning, cloud**
-
 **Projects**
 
 1) Had completed the project related to  ` Dental Clinic Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
  
 2) Had completed the project related to  ` Grocery Store Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
 
-<h3 align="left">Connect with me: Surakshasalian456@gmail.com</h3>
+###Connect with me: Surakshasalian456@gmail.com
 <p align="left">
  
 * [Linkedin](https://linkedin.com/in/suraksha-r) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@suraksha20mca021" height="30" width="40" />
