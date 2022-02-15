@@ -12,6 +12,8 @@ I am looking forward to an opportunity where I can utilize my skills in constitu
  
 2) Had completed the project related to  ` Grocery Store Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
 
+3)`Digitalize 10th central syllabus science textbook` using **PHP,CSS,JAVASCRIPT**
+
 ### Connect with me: Surakshasalian456@gmail.com
 <p align="left">
  
