@@ -12,7 +12,7 @@ I am looking forward to an opportunity where I can utilize my skills in constitu
  
 2) Had completed the project related to  ` Grocery Store Management ` as website,using  **PHP,CSS,JAVASCRIPT**  as Frontend and  **MySql** as Backend
 
-###Connect with me: Surakshasalian456@gmail.com
+### Connect with me: Surakshasalian456@gmail.com
 <p align="left">
  
 * [Linkedin](https://linkedin.com/in/suraksha-r) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@suraksha20mca021" height="30" width="40" />
